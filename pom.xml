@@ -6,7 +6,7 @@
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
   <name>SimpleWebApp Maven Webapp</name>
-  <url>http://my.organisation.com</url>
+  <url>http://some.organisation.com</url>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
